@@ -23,6 +23,4 @@ This is an interactive **U.S. States Guessing Game** built using **Python's Turt
 - **Turtle Graphics** 🐢
 - **Pandas (Data Handling)** 📊
 
----
 
-## 📂 Project Structure
